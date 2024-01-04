@@ -22,7 +22,7 @@
 
 # Usage
 
-1. Visit the website at [Fashion Factory](https://example.com).
+1. Login to website
 2. Browse the different collections of dresses.
 3. Select desired dresses and add them to your cart.
 4. Proceed to checkout and provide the necessary details.
